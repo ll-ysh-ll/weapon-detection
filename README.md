@@ -27,3 +27,19 @@ labeling tool: [![@labelImg](https://img.shields.io/badge/LabelImg-%20-blue)](ht
 ![App Screenshot](https://github.com/ll-ysh-ll/weapon-detection/blob/master/Screenshots/(3).jpeg?raw=true)
 ![App Screenshot](https://github.com/ll-ysh-ll/weapon-detection/blob/master/Screenshots/(4).jpeg?raw=true)
 
+### To-do
+
+- [x]  Dataset Gathering
+- [x]  Image Annotation
+- [x]  Model Training
+- [ ]  E-mail Alert
+- [ ]  Deployment Using Webapp
+
+
+## Contact me
+
+In any case if you need help feel free to contact me anytime
+
+ yashkolekar008@gmail.com
+
+ linkedin.com/in/yash-kolekar-559492116
